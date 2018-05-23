@@ -1,7 +1,7 @@
 Chess3D
 =======
 
-HTML5/WebGL 3D Chess Game
+3D Chess Game Powered by JavaScript AI
 
 Chess AI Developed by: **Gary Linscott**
 
