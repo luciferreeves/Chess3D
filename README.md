@@ -10,3 +10,5 @@ Interactive 3D chessboard by: **FrenchYann**
 Game Saves and Loads in *pgn* format. Functionality developed by: **FrenchYann**
 
 Game Menu UI Improvised by: **luciferreeves**
+
+Play it here: [https://luciferreeves.github.io/Chess3D/]
